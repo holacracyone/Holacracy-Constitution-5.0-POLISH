@@ -1,20 +1,20 @@
-#### I'm newer to Holacracy. How should I use this platform? Are the discussions on here useful to me?
+#### Jestem nowy w Holakracji. Jak powinienem korzystać z tej platformy? Czy dyskusje tutaj są dla mnie przydatne?
 
-You should probably ignore everything you see here on GitHub. The writing and engagement here is not meant for the wider audience of Holacracy users, and may be seriously confusing if you're not already a skilled Holacracy practitioner. Instead, try the Holacracy Community of Practice: http://community.holacracy.org.
+Prawdopodobnie powinieneś zignorować wszystko, co widzisz tutaj na GitHubie. Treści i zaangażowanie tutaj nie są skierowane do szerokiej grupy użytkowników Holakracji i mogą być bardzo mylące, jeśli nie jesteś już doświadczonym praktykiem Holakracji. Zamiast tego, wypróbuj Społeczność Praktyków Holakracji: http://community.holacracy.org.
 
-#### Is the version of the Holacracy Constitution here on GitHub the official version I should use?
+#### Czy wersja Konstytucji Holakracji dostępna tutaj na GitHubie to oficjalna wersja, której powinienem używać?
 
-No. This platform is to support Holacracy developers working on the next version of the Holacracy operating system, and the version you see here is the latest "under development" version - if this were software, it wouldn't even be released as an "alpha" or "beta" release yet, let alone a new version. You can find the official released version at http://holacracy.org/constitution.
+Nie. Ta platforma służy wspieraniu twórców Holakracji pracujących nad kolejną wersją systemu operacyjnego Holakracji, a wersja, którą tutaj widzisz, to najnowsza wersja „w trakcie rozwoju” – gdyby to było oprogramowanie, nie zostałoby nawet wydane jako wersja „alfa” czy „beta”, nie mówiąc już o nowej wersji. Oficjalnie opublikowaną wersję znajdziesz na stronie http://holacracy.org/constitution.
 
-#### I see you changed a rule in the Constitution here in GitHub; should my company start relying on the new rule?
+#### Widzę, że zmieniono tutaj jakąś zasadę w Konstytucji; czy moja firma powinna zacząć stosować tę nową zasadę?
 
-No. the version you see here is the latest "under development" version (see prior question). You should only rely on rules in the version of the Constitution that your organization officially adopted.
+Nie. Wersja, którą tutaj widzisz, to najnowsza wersja „w trakcie rozwoju” (patrz poprzednie pytanie). Powinieneś polegać wyłącznie na zasadach zawartych w wersji Konstytucji, którą Twoja organizacja oficjalnie przyjęła.
 
-#### I know Holacracy well, but I’m not very tech savvy. How do I use GitHub to contribute to evolving Holacracy?
+#### Dobrze znam Holakrację, ale nie jestem zbyt obeznany technicznie. Jak mogę używać GitHuba, aby przyczynić się do rozwoju Holakracji?
 
-You can start by orienting yourself with these basic resources about Version (Revision) Control in Open Source development and GitHub basics. 
+Możesz zacząć od zapoznania się z tymi podstawowymi materiałami dotyczącymi kontroli wersji w rozwoju open source oraz podstaw GitHuba:
 
-- http://en.wikipedia.org/w/index.php?title=Revision_control
-- https://help.github.com/articles/fork-a-repo
-- https://help.github.com/articles/using-pull-requests
-- https://help.github.com/articles/github-glossary
+- http://en.wikipedia.org/w/index.php?title=Revision_control  
+- https://help.github.com/articles/fork-a-repo  
+- https://help.github.com/articles/using-pull-requests  
+- https://help.github.com/articles/github-glossary  
