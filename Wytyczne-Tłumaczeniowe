@@ -1,0 +1,16 @@
+### CEL I ZAKRES TŁUMACZENIA
+Celem tej pracy jest zapewnienie dokładnego tłumaczenia oficjalnie opublikowanej wersji Konstytucji Holakracji 5.0, dostępnej pod adresem http://holacracy.org/constitution/5, a **NIE** tłumaczenie <a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md">wersji rozwojowej Konstytucji Holakracji</a> znajdującej się na GitHubie.
+
+Samej Konstytucji towarzyszą inne dokumenty pomocnicze (np. Deklaracja Przyjęcia Konstytucji), które są wszystkie dostępne na GitHubie: https://github.com/holacracyone/Holacracy-Constitution
+
+Podsumowując, dokumenty źródłowe do przetłumaczenia to:
+* Sama Konstytucja Holakracji: http://holacracy.org/constitution/5
+* Wszystkie inne dokumenty pomocnicze: https://github.com/holacracyone/Holacracy-Constitution
+
+### PROCES TŁUMACZENIA
+Każdy język docelowy ma **Opiekuna Tłumaczenia** (Translation Steward) z ostatecznym uprawnieniem do zaakceptowania lub odrzucenia zmian w tłumaczeniu. Inni współtwórcy mogą zgłaszać zmiany poprzez *commitowanie* ich do repozytorium, a Opiekun Tłumaczenia zaakceptuje lub odrzuci zmiany.
+
+Jeśli uważasz, że inna osoba (w tym Ty sam) byłaby wyraźnie lepszym kandydatem do pełnienia funkcji Opiekuna Tłumaczenia dla danego języka docelowego, <a href="http://holacracy.org/contact" target="_blank">skontaktuj się z HolacracyOne</a>.
+
+--------
+Ten dokument nie wymaga tłumaczenia.
