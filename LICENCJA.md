@@ -1,21 +1,16 @@
-## Uznanie autorstwa – Na tych samych warunkach 4.0 Międzynarodowe (CC BY-SA 4.0)
+Uznanie autorstwa-Na tych samych warunkach 4.0 Międzynarodowe (CC BY-SA 4.0)
+To jest podsumowanie w języku zrozumiałym dla człowieka (i nie zastępuje pełnej licencji).
+Masz prawo do:
+Udostępniania — kopiowania i rozpowszechniania materiału w dowolnym formacie i medium
+Adaptacji — remiksowania, przekształcania i tworzenia na podstawie materiału do dowolnych celów, nawet komercyjnych.
+Licencjodawca nie może cofnąć tych wolności, o ile przestrzegasz warunków licencji.
 
-#### To jest podsumowanie w przystępnej formie (i nie zastępuje pełnej treści licencji dostępnej pod adresem <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank">link</a>).
+Na następujących warunkach:
+Uznanie autorstwa — Musisz podać odpowiednie informacje o autorze, podać link do licencji oraz wskazać, czy dokonano zmian. Możesz to zrobić w rozsądny sposób, ale nie w sposób sugerujący, że licencjodawca popiera Ciebie lub sposób, w jaki używasz materiału.
 
-#### Masz prawo do:
+Na tych samych warunkach — Jeśli remiksujesz, przekształcasz lub tworzysz na podstawie materiału, musisz rozpowszechniać swój wkład na tej samej licencji, co oryginał.
 
-**Udostępniania** — kopiowania i rozpowszechniania materiału w dowolnym formacie i w dowolnym medium  
-**Adaptacji** — remiksowania, przekształcania i tworzenia na podstawie materiału do dowolnych celów, także komercyjnych.  
-Licencjodawca nie może cofnąć tych swobód, dopóki spełniasz warunki licencji.
+Brak dodatkowych ograniczeń — Nie możesz stosować warunków prawnych ani środków technologicznych, które prawnie ograniczałyby innych w wykonywaniu czynności dozwolonych przez licencję.
 
-#### Na następujących warunkach:
-
-**Uznanie autorstwa** — Musisz podać **stosowną informację o autorze**, umieścić link do licencji oraz **wskazać, czy wprowadziłeś zmiany**. Możesz to zrobić w sposób rozsądny, ale nie sugerujący, że licencjodawca popiera Ciebie lub sposób, w jaki korzystasz z utworu.
-
-**Na tych samych warunkach** — Jeśli przekształcisz, zmienisz lub rozbudujesz materiał, musisz rozpowszechniać swój wkład na podstawie **tej samej licencji**, co oryginał.
-
-**Brak dodatkowych ograniczeń** — Nie możesz stosować warunków prawnych ani **środków technologicznych**, które ograniczają innym możliwość korzystania z treści na warunkach określonych w licencji.
-
-#### Dodatkowe informacje:
-
-Podobnie jak Linux®, Wikipedia® i Java®, Holacracy® jest zarejestrowanym znakiem towarowym, w tym przypadku firmy HolacracyOne LLC. Podobnie jak inni opiekunowie otwartych platform, HolacracyOne stara się zachować integralność swojej marki i jakość, którą reprezentuje. Zachęcamy więc do tworzenia i dzielenia się własnymi pochodnymi dziełami Konstytucji Holakracji® zgodnie z warunkami naszej licencji open-source CC BY-SA 4.0 oraz do wskazania, że Twoje dzieło jest pochodne względem oficjalnej Konstytucji Holakracji (prosimy o dołączenie linku do http://holacracy.org/constitution). Jednak poza tym odniesieniem, nie możesz nazywać ani w inny sposób oznaczać swojego dzieła pochodnego znakiem Holacracy, aby uniknąć pomyłek między Twoją wersją a oficjalnym dokumentem Holakracji. Jeśli masz pytania, <a href="http://www.holacracy.org/contact/" target="_blank">skontaktuj się z nami</a>!
+Dodatkowe informacje:
+Podobnie jak Linux®, Wikipedia® i Java®, Holacracy® jest zarejestrowanym znakiem towarowym; w tym przypadku HolacracyOne LLC. Podobnie jak inni opiekunowie otwartych platform, HolacracyOne dąży do utrzymania integralności swojej marki i jakości tego, co ona reprezentuje. Dlatego zapraszamy do tworzenia i udostępniania własnych dzieł pochodnych Konstytucji Holakracji®, zgodnie z warunkami naszej licencji open-source CC BY-SA 4.0, oraz do zamieszczenia informacji, że Twoja praca pochodzi z oficjalnej Konstytucji Holakracji (prosimy o dołączenie linku do http://holacracy.org/constitution). Jednak poza tym odniesieniem, nie możesz nazywać ani w żaden inny sposób oznaczać swojej wersji pracą pod marką Holacracy, aby uniknąć pomyłek między Twoją wersją a oficjalnym dokumentem Holacracy. Jeśli masz pytania, prosimy skontaktuj się z nami!
